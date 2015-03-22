@@ -30,7 +30,7 @@ RadComponent = React.createClass
 install coffee-reactify:
 
 ```bash
-$ npm install -g coffee-react
+$ npm install -g coffee-reactify
 ```
 
 version compatibility: 
