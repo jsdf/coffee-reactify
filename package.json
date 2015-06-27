@@ -4,7 +4,7 @@
   "description": "browserify v2 plugin for coffee-react cjsx",
   "main": "index.js",
   "dependencies": {
-    "coffee-react": "^3.0.0",
+    "coffee-react": "^4.0.0",
     "convert-source-map": "~0.3.3",
     "through": "~2.3.4"
   },
