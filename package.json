@@ -1,6 +1,6 @@
 {
   "name": "coffee-reactify",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "description": "browserify v2 plugin for coffee-react cjsx",
   "main": "index.js",
   "dependencies": {
